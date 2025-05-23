@@ -13,6 +13,6 @@
 - 📈 [Amazon Spending Analysis](https://1drv.ms/f/c/3054c51dff1e9a25/EiG0sDZ8FWZJleD9Tzrq0SwB-4XcaPrUmog_yfgbPHEVvw?e=E2dSSG)
 - 🎬 [K-Drama Watch Tracker](https://1drv.ms/f/c/3054c51dff1e9a25/EjjnUlokVqFLiGmZPnnNwZcBIA_3gIKGyL5VsNoEtDMIBg?e=ByNaaw)
 
-## 📫 Connect With Me
-Email: ngoalena415@gmail.com
-LinkedIn: [linkedin.com/in/alenango](https://www.linkedin.com/in/alena-ngo/)
+## 📫 Social
+- [Email](ngoalena415@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/alena-ngo/)
