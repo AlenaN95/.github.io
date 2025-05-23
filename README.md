@@ -19,10 +19,6 @@
 - Google Suites
 - MS Suites
 
-## 📂 Portfolio
-📈 [Amazon Spending Analysis](https://1drv.ms/f/c/3054c51dff1e9a25/EiG0sDZ8FWZJleD9Tzrq0SwB-4XcaPrUmog_yfgbPHEVvw?e=E2dSSG)
-
-🎬 [K-Drama Watch Tracker](https://1drv.ms/f/c/3054c51dff1e9a25/EjjnUlokVqFLiGmZPnnNwZcBIA_3gIKGyL5VsNoEtDMIBg?e=ByNaaw)
 
 ## 📫 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alena-ngo)  
